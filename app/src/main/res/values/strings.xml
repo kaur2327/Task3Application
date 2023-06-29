@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task 3Application</string>
+    <string name="name">name</string>
+    <string name="roll_no">roll no\n\n</string>
+    <string name="enter_roll_no">enter roll no</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_temperature">enter temperature</string>
+    <string name="Move">Move</string>
+    <string name="Data_Transfer">Data Transfer</string>
+</resources>
